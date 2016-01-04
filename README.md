@@ -1,4 +1,4 @@
-Globalize-config-compiler is a wrapper around globalize-compiler. It allows you to
+Globalize-config-compiler is a wrapper around [globalize-compiler](https://github.com/jquery-support/globalize-compiler). It allows you to
 specify the formatters and parsers you wish to use in a json config file, and
 will feed that to globalize-compiler.
 
