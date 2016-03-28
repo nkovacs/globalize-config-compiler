@@ -1,6 +1,6 @@
 {
   "name": "globalize-config-compiler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compile globalize messages and formatters using json config.",
   "author": "",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
     "globalize-compiler": "jquery-support/globalize-compiler"
   },
   "peerDependencies": {
-    "cldr-data": "^28.0.3",
-    "globalize": "^1.1.0-rc.6"
+    "cldr-data": ">=28",
+    "globalize": "^1.1.0"
   }
 }
