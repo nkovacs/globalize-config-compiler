@@ -1,6 +1,6 @@
 {
   "name": "globalize-config-compiler",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Compile globalize messages and formatters using json config.",
   "author": "",
   "main": "lib/index.js",
