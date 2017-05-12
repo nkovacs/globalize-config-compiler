@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "globalize-compiler": "jquery-support/globalize-compiler"
+    "globalize-compiler": "^0.2.5"
   },
   "peerDependencies": {
     "cldr-data": ">=28",
